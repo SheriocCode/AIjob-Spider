@@ -81,12 +81,13 @@ pyechart 	(2.0.4)
   ![auto](picture/1.png)
 
 - 饼图
-
-  ![education_cnt](picture/education_cnt.png)
-
-  ![experience_cnt](picture/experience_cnt.png)
-
-  ![people_cnt](picture/people_cnt.png)
+    <table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src='picture/education_cnt.png' alt="education_cnt"></td>
+            <td><img src='picture/experience_cnt.png' alt="experience_cnt"></td>
+            <td><img src='picture/people_cnt.png' alt="people_cnt"></td>
+        </tr>
+    </table>
 ```python
 
 1、经验要求不限、在1-3年、3-5年的比重可谓三权分立。  
